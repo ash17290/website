@@ -7,7 +7,7 @@ const validRequests = [
   {
     requestURL: "http://localhost:8888/definitions/2.4.0/info.json",
     responseURL:
-      "https://raw.githubusercontent.com/asyncapi/spec-json-schemas/master/definitions/2.4.0/info.json",
+      "https://raw.githubusercontent.com/asyncapi/spec-json-schemas/master/definition/2.4.0/info.json",
   },
   {
     requestURL: "http://localhost:8888/schema-store/2.5.0-without-$id.json",
